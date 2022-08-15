@@ -55,6 +55,20 @@ const skillSetHead = document.createElement("h3");
 const skillSetContainer = document.createElement("div");
 
 /***********************Attribute Section************************/
+// const imgPath = [
+//   "./dom22img/linkedinBrands.svg",
+//   "./dom22img/twitterSquare.svg",
+//   ,
+//   "./dom22img/githubSquare.svg",
+// ];
+
+// imgPath.forEach((path) => {
+//   const img = document.createElement("a");
+//   img.setAttribute("href", path);
+//   img.style.height=
+// a.appendChild();
+//   container.appendChild(img);
+// });
 
 img1.setAttribute("src", "./dom22img/linkedinBrands.svg");
 img2.setAttribute("src", "./dom22img/twitterSquare.svg");
